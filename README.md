@@ -1,7 +1,7 @@
 # newNote2
 
 <hr>
-This page has been created to serve as a valuable tool in monitoring and managing my progress through the ASP.NET Core courses offered by ASAC (Advanced Software and Applications Center). It aims to provide an organized repository of my course information, including detailed reading notes, facilitating easy access and retrieval of my own data.
+This page has been created to serve as a valuable tool in monitoring and managing my progress through the ASP.NET Core courses offered by ASA (Advanced Software and Applications Center). It aims to provide an organized repository of my course information, including detailed reading notes, facilitating easy access and retrieval of my own data. :blush: :sunny:
 
 <hr>
 
@@ -9,13 +9,14 @@ This page has been created to serve as a valuable tool in monitoring and managin
 
 **The list Order and Unorder** :
 
+ 1. Item 1
+ 2. Item 2
+ 3. Item 3
+ 
 - Item 1
 - Item 2
 - Item 3
 
- 1. Item 1
- 2. Item 2
- 3. Item 3
 
 This list was mad by using (- or 1.)
 
@@ -30,7 +31,8 @@ This is used to open a link when prest on it
 **Emphasis and Strong Emphasis** :
 
 
-**Bold text** 
+**Bold Text** 
+*Italic Text*
 
 are things to varify apoint in bold or in Italic text. 
 
@@ -38,25 +40,26 @@ are things to varify apoint in bold or in Italic text.
 
 *You can add a code block to make the page more interactive.*
 ```c#
-int []arr = new int arr[4];
+Consoloe.WriteLine("Hello World");
 ```
 
-**Hr**:
+**<"HR">**:
 
 The line that sapreates things such as this one below
 <hr>
 
-[Databases and SQL](databases-and-SQL.md)
+1. [Databases and SQL](databases-and-SQL.md)
 
-[The Command Line](The-Command-Line.md)
+2. [The Command Line](The-Command-Line.md)
 
-[The Growth Mindset](The-Growth-Mindset.md)
-## Code 102 - Intro to Software Development
+3. [The Growth Mindset](The-Growth-Mindset.md)
+<hr>
+ ## Code 102 - Intro to Software Development
 
-## Code 201 - Foundations of Software Development
+ ## Code 201 - Foundations of Software Development
 
-## Code 301 - Intermediate Software Development
+ ## Code 301 - Intermediate Software Development
 
-## Code 301 - Intermediate Software Development
+ ## Code 301 - Intermediate Software Development
 
-## Code 401 - Advanced Software Development
+ ## Code 401 - Advanced Software Development
