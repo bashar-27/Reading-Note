@@ -7,6 +7,11 @@ This page has been created to serve as a valuable tool in monitoring and managin
 
 ### Some features of Markdown to structure
 
+**<"HR">**:
+
+The line that sapreates things such as this one below
+<hr>
+
 **The list Order and Unorder** :
 
  1. Item 1
@@ -34,7 +39,9 @@ This is used to open a link when prest on it
 **Bold Text** 
 *Italic Text*
 
-are things to varify apoint in bold or in Italic text. 
+Are things to varify apoint in **Bold** or in *Italic* text. 
+
+<hr>
 
 **Code block** :
 
@@ -43,10 +50,7 @@ are things to varify apoint in bold or in Italic text.
 Consoloe.WriteLine("Hello World");
 ```
 
-**<"HR">**:
 
-The line that sapreates things such as this one below
-<hr>
 
 1. [Databases and SQL](databases-and-SQL.md)
 
@@ -54,11 +58,10 @@ The line that sapreates things such as this one below
 
 3. [The Growth Mindset](The-Growth-Mindset.md)
 <hr>
+
  ## Code 102 - Intro to Software Development
 
  ## Code 201 - Foundations of Software Development
-
- ## Code 301 - Intermediate Software Development
 
  ## Code 301 - Intermediate Software Development
 
