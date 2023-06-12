@@ -1,4 +1,4 @@
-# newNote2
+# NewNote2
 
 <hr>
 This page has been created to serve as a valuable tool in monitoring and managing my progress through the ASP.NET Core courses offered by ASA (Advanced Software and Applications Center). It aims to provide an organized repository of my course information, including detailed reading notes, facilitating easy access and retrieval of my own data. :blush: :sunny:
