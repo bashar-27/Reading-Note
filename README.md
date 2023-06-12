@@ -33,7 +33,7 @@ are things to varify apoint in bold or in Italic text.
 **Code block** :
 
 ```c#
-int thirdElement = numbers[2];
+int thirdElement = numbers[4];
 ```
 
 you can add a code block to make the page more decreptive.
