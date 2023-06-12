@@ -57,7 +57,7 @@ Consoloe.WriteLine("Hello World");
 2. [The Command Line](The-Command-Line.md)
 
 3. [The Growth Mindset](The-Growth-Mindset.md)
-4. [Reading: Exception Handling]()
+4. [Reading: Exception Handling](Reading.md)
 <hr>
 
  ## Code 102 - Intro to Software Development
