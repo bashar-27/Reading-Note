@@ -29,11 +29,7 @@ Concurrent programming errors: Incorrect handling of concurrent operations led t
 
 Removal of hardware interlocks: The system relied solely on software checks, removing hardware safeguards that could have prevented errors and failures.
 
-Lack of proper testing and debugging: The software was developed by one person without adequate testing and debugging procedures, leading to the release of a flawed system.
-
 Lack of user feedback and communication: User claims and reports of software bugs were disregarded, delaying investigation and resolution of issues.
-
-Insufficient training and qualification verification: The programmer's qualifications and experience were not transparent, contributing to the development of a faulty system.
 
 Inadequate documentation and record-keeping: Crucial treatment data and radiation records were not properly documented, hindering accurate analysis and investigation.
 
