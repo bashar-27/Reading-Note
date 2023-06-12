@@ -1,46 +1,49 @@
 # newNote2
 
 <hr>
-This page was made to help me track my corurses in the ASAC courses for ASP.NET whish will show the reading notes for me to help me retrive my own data.
+This page has been created to serve as a valuable tool in monitoring and managing my progress through the ASP.NET Core courses offered by ASAC (Advanced Software and Applications Center). It aims to provide an organized repository of my course information, including detailed reading notes, facilitating easy access and retrieval of my own data.
 
 <hr>
 
 ### Some features of Markdown to structure
 
-**the list** :
+**The list Order and Unorder** :
 
 - Item 1
 - Item 2
 - Item 3
 
-this list was mad by using (- or + or *)
+ 1. Item 1
+ 2. Item 2
+ 3. Item 3
+
+This list was mad by using (- or 1.)
 
 **links** :
 
-this is used to open a link when prest on it
+This is used to open a link when prest on it
 
-[Click here to visit this reading notes](https://github.com/osamaalkarmi20/reading-notes)
+[Click here to visit this reading notes](https://github.com/bashar_27/newNote2)
 
 
 
 **Emphasis and Strong Emphasis** :
 
-*Italic text* 
+
 **Bold text** 
 
 are things to varify apoint in bold or in Italic text. 
 
 **Code block** :
 
+*You can add a code block to make the page more interactive.*
 ```c#
-int thirdElement = numbers[4];
+int []arr = new int arr[4];
 ```
-
-you can add a code block to make the page more decreptive.
 
 **Hr**:
 
-the line that sapreates things such as this one below
+The line that sapreates things such as this one below
 <hr>
 
 [Databases and SQL](databases-and-SQL.md)
