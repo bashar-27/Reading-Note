@@ -37,4 +37,4 @@ head: Display the first few lines of a file.
 tail: Display the last few lines of a file.
 
 Cheat Sheet:
-## A cheat sheet is a quick reference guide that summarizes the main points covered in a tutorial. It provides a handy overview of commands, syntax, and important concepts. In the context of this tutorial, a cheat sheet would serve as a reminder of the essential commands and techniques related to the command line, navigation, file manipulation, and other topics discussed.##
+<h4> A cheat sheet is a quick reference guide that summarizes the main points covered in a tutorial. It provides a handy overview of commands, syntax, and important concepts. In the context of this tutorial, a cheat sheet would serve as a reminder of the essential commands and techniques related to the command line, navigation, file manipulation, and other topics discussed.</h4>
