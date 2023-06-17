@@ -54,7 +54,7 @@ Consoloe.WriteLine("Hello World");
 
 1. [Databases and SQL](SQL.md)
 
-2. [The Command Line](The-Command-Line.md)
+2. [The Command Line](Practice-In-The-Terminal.md)
 
 3. [The Growth Mindset](The-GrowthMind-Set.md)
 4. [Reading: Exception Handling](Reading.md)
