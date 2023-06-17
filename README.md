@@ -52,7 +52,7 @@ Consoloe.WriteLine("Hello World");
 
 
 
-1. [Databases and SQL](databases-and-SQL.md)
+1. [Databases and SQL](SQL.md)
 
 2. [The Command Line](The-Command-Line.md)
 
