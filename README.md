@@ -60,6 +60,7 @@ Consoloe.WriteLine("Hello World");
 4. [Reading: Exception Handling](Reading.md)
 5. [The Terminal](Practice-In-The-Terminal.md)
 6. [Algorithm And DS ](https://github.com/bashar-27/Algo-And-DataStructure/tree/master/CodeChallenge)
+7. [Read Class 3](RClass3.md)
 <hr>
 
  ## Code 102 - Intro to Software Development
