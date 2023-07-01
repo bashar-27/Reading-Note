@@ -63,7 +63,8 @@ Consoloe.WriteLine("Hello World");
 7. [Read Class 3](RClass3.md)
 8. [Read Class 4](RClass4.md)
 9. [Read Class 5](RClass5.md)
-10. [Read Clas 6](ReadingClass-6.md)
+10. [Read Class 6](ReadingClass-6.md)
+11. [Read Class 7](RClass2.md)
 <hr>
 
  ## Code 102 - Intro to Software Development
