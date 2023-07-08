@@ -52,22 +52,23 @@ Consoloe.WriteLine("Hello World");
 
 
 
-1. [Databases and SQL](SQL.md)
+| No. | Topic                                    | Link                                               |
+| --- | ---------------------------------------- | -------------------------------------------------- |
+| 1.  | Databases and SQL                        | [SQL.md](SQL.md)                                   |
+| 2.  | The Command Line                         | [Practice-In-The-Terminal.md](Practice-In-The-Terminal.md) |
+| 3.  | The Growth Mindset                       | [The-GrowthMind-Set.md](The-GrowthMind-Set.md)           |
+| 4.  | Reading: Exception Handling              | [Reading.md](Reading.md)                           |
+| 5.  | The Terminal                             | [Practice-In-The-Terminal.md](Practice-In-The-Terminal.md) |
+| 6.  | Algorithm And DS                         | [Code Challenge](https://github.com/bashar-27/Algo-And-DataStructure/tree/master/CodeChallenge) |
+| 7.  | Read Class 3                             | [RClass3.md](RClass3.md)                           |
+| 8.  | Read Class 4                             | [RClass4.md](RClass4.md)                           |
+| 9.  | Read Class 5                             | [RClass5.md](RClass5.md)                           |
+| 10. | Read Class 6                             | [ReadingClass-6.md](ReadingClass-6.md)             |
+| 11. | Read Class 2                             | [RClass2.md](RClass2.md)                           |
+| 12. | Read Class 7                             | [RClass7.md](RClass7.md)                           |
+| 13. | Read Class 8                             | [RClass08.md](RClass08.md)                         |
+| 14. | Read Class 9                             | [RClass9.md](RClass9.md)                           |
 
-2. [The Command Line](Practice-In-The-Terminal.md)
-
-3. [The Growth Mindset](The-GrowthMind-Set.md)
-4. [Reading: Exception Handling](Reading.md)
-5. [The Terminal](Practice-In-The-Terminal.md)
-6. [Algorithm And DS ](https://github.com/bashar-27/Algo-And-DataStructure/tree/master/CodeChallenge)
-7. [Read Class 3](RClass3.md)
-8. [Read Class 4](RClass4.md)
-9. [Read Class 5](RClass5.md)
-10. [Read Class 6](ReadingClass-6.md)
-11. [Read Class 2](RClass2.md)
-12. [Read Class 7](RClass7.md)
-13. [Read Class 8](RClass08.md)
-14. [Read Class 8](RClass9.md)
 <hr>
 
  ## Code 102 - Intro to Software Development
