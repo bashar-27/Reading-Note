@@ -66,7 +66,7 @@ Consoloe.WriteLine("Hello World");
 | 10. | Read Class 6                             | [ReadingClass-6.md](ReadingClass-6.md)             |
 | 11. | Read Class 2                             | [RClass2.md](RClass2.md)                           |
 | 12. | Read Class 7                             | [RClass7.md](RClass7.md)                           |
-| 13. | Read Class 8                             | [RClass08.md](RClass08.md)                         |
+| 13. | Read Class 8                             | [Collections And Enums](RClass08.md)                         |
 | 14. | Read Class 9                             | [LINQ](RClass9.md)                           |
 | 15. | Stack And Queue                          | [Stack And Queue](StackAndQueue.md)                |
 
