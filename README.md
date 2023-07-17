@@ -70,6 +70,7 @@ Consoloe.WriteLine("Hello World");
 | 14. | Read Class 9                             | [LINQ](RClass9.md)                           |
 | 15. | Stack And Queue                          | [Stack And Queue](StackAndQueue.md)                |
 | 16. | Read Class 11                            | [Databases and ERDs](RClass11.md)                  |
+| 17. | Read Class 12                            | [MVC](RClass12.md)                                 | 
 <hr>
 
  ## Code 102 - Intro to Software Development
