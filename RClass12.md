@@ -1,5 +1,7 @@
 # MVC
 
+## Goal of Entity Framework:
+<p>The purpose of Entity Framework is to simplify and streamline the process of working with databases in .NET applications by providing an object-oriented approach to database interactions, eliminating the need for writing raw SQL queries, and enabling developers to focus on working with data as objects rather than dealing with low-level database operations.</p>
 
 ## MVC vs Razor Pages
 
@@ -19,6 +21,9 @@ The main differences between ASP.NET MVC and Razor Pages are:
 Choose the right approach based on your application's complexity and requirements:
 - MVC provides more flexibility and control.
 - Razor Pages offer a simpler and more concise approach.
+
+## Seeding Data:
+<p> Seeding data involves inserting predefined or default data into a database during the initial setup or migration process, establishing a foundation for the application's functionality and allowing it to operate with meaningful data from the start.</p>
 
 ## ASP.NET MVC application with EF
 
