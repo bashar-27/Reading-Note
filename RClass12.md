@@ -37,3 +37,7 @@ The controller component handles user requests, while the view component renders
 
 By combining the benefits of MVC for separation of concerns and the convenience of EF for database interactions, you can build robust, scalable, and data-driven applications with ease.
 
+## Things I want to know more about MVC:
+Exploring different view engines and their advantages in MVC
+
+
