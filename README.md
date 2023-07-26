@@ -72,7 +72,8 @@ Consoloe.WriteLine("Hello World");
 | 16. | Read Class 11                            | [Databases and ERDs](RClass11.md)                  |
 | 17. | Read Class 12                            | [MVC](RClass12.md)                                 | 
 | 18. | Read Class 13                            | [Dependency Injection & Repository Design Pattern](RClass13.md) |
-| 19. | Read Class 14                            | [Navigation Properties and Routing](RClass14.md)
+| 19. | Read Class 14                            | [Navigation Properties and Routing](RClass14.md)   |
+| 20. | Tree                                     |[Tree DS](Tree.md)                                  |
 <hr>
 
  ## Code 102 - Intro to Software Development
