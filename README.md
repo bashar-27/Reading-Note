@@ -74,7 +74,7 @@ Consoloe.WriteLine("Hello World");
 | 18. | Read Class 13                            | [Dependency Injection & Repository Design Pattern](RClass13.md) |
 | 19. | Read Class 14                            | [Navigation Properties and Routing](RClass14.md)   |
 | 20. | Tree                                     |[Tree DS](Tree.md)                                  |
-| 21. | DTOs                                     |[DTO](dtom.d)                                       |
+| 21. | DTOs                                     |[DTO](dto.md)                                       |
 <hr>
 
  ## Code 102 - Intro to Software Development
