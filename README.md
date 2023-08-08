@@ -77,6 +77,7 @@ Consoloe.WriteLine("Hello World");
 | 21. | DTOs                                     |[DTO](dto.md)                                       |
 | 22. |Testing and Swagger and Deployment        |[Testing and Swagger and Deployment](RClass17.md)   |
 | 23. |Identity                                  |[Identity](Rclass17.md)                             |
+| 24. |Roles, Claims and JWT Tokens              |[Roles, Claims and JWT Tokens](RClass19.md)         |
 
 <hr>
 
