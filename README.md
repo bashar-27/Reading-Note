@@ -78,7 +78,8 @@ Consoloe.WriteLine("Hello World");
 | 22. |Testing and Swagger and Deployment        |[Testing and Swagger and Deployment](RClass17.md)   |
 | 23. |Identity                                  |[Identity](Rclass17.md)                             |
 | 24. |Roles, Claims and JWT Tokens              |[Roles, Claims and JWT Tokens](RClass19.md)         |
-| 25. |Intro to MVC                              |[Intro to MVC](RClass26.md)
+| 25. |Intro to MVC                              |[Intro to MVC](RClass26.md)                         |
+| 26. |4 Ways To Create Form In ASP.NET MVC      |[4 Ways To Create Form In ASP.NET MVC](RClass27.md) |
 
 <hr>
 
