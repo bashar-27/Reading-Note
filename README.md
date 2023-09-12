@@ -82,6 +82,7 @@ Consoloe.WriteLine("Hello World");
 | 26. |4 Ways To Create Form In ASP.NET MVC      |[4 Ways To Create Form In ASP.NET MVC](RClass27.md) |
 | 27. |Cookies                                   |[Cookies](RClass28.md)                              |
 | 28. |Azure Blob Storage                        |[Azure Blob Storage](RClass29.md)                   |
+| 29. |Hash Table                                |[Hash Table](RClass30.md)                           | 
 
 <hr>
 
