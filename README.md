@@ -84,6 +84,7 @@ Consoloe.WriteLine("Hello World");
 | 28. |Azure Blob Storage                        |[Azure Blob Storage](RClass29.md)                   |
 | 29. |Hash Table                                |[Hash Table](RClass30.md)                           | 
 | 30. |Razor Page                                |[Razor Page](RClass31.md)                           |
+| 31. |View Component                            |[View Comp.](RClass32.md)                           |
 
 <hr>
 
