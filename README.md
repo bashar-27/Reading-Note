@@ -85,6 +85,7 @@ Consoloe.WriteLine("Hello World");
 | 29. |Hash Table                                |[Hash Table](RClass30.md)                           | 
 | 30. |Razor Page                                |[Razor Page](RClass31.md)                           |
 | 31. |View Component                            |[View Comp.](RClass32.md)                           |
+| 32. |How to read technical documentation       |[How Credit Card Processing Works](RClass33.md)     |             
 
 <hr>
 
