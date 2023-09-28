@@ -87,6 +87,7 @@ Consoloe.WriteLine("Hello World");
 | 31. |View Component                            |[View Comp.](RClass32.md)                           |
 | 32. |How to read technical documentation       |[How Credit Card Processing Works](RClass33.md)     |        
 | 33. |Sendgrid                                  |[Sendgrid](RClass34.md)                             |
+| 34. |Graph                                     |[Graph](RClass35.md)                                |
 
 <hr>
 
