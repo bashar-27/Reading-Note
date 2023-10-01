@@ -88,6 +88,7 @@ Consoloe.WriteLine("Hello World");
 | 32. |How to read technical documentation       |[How Credit Card Processing Works](RClass33.md)     |        
 | 33. |Sendgrid                                  |[Sendgrid](RClass34.md)                             |
 | 34. |Graph                                     |[Graph](Graph.md)                                   |
+| 35. |JAM Stack                                 |[JAM Stack](jam.md)                                 |
 
 <hr>
 
