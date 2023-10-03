@@ -25,3 +25,17 @@ Lifting state in React involves moving the state of a component higher up in the
 # React - Composition vs Inheritance
 
 Composition and inheritance are two different approaches to code reuse in React. Composition involves creating components that use other components for their functionality, while inheritance involves creating specialized components that extend the functionality of a base component. In React, composition is generally favored over inheritance for code reuse.
+
+## Things I want to know more about
+
+- Advanced state management in React, beyond basic component state.
+- Best practices for optimizing performance in React applications.
+- Techniques for handling authentication and authorization in React.
+- Exploring the latest features and updates in ES6 and beyond.
+- Deepening my understanding of CSS-in-JS libraries and their benefits.
+- Exploring advanced concepts in Next.js for building complex web applications.
+- Investigating different testing methodologies for React applications.
+- Exploring advanced techniques for code splitting and lazy loading in React.
+- Diving into serverless architecture and its integration with React applications.
+- Understanding the principles of progressive web apps (PWAs) and their implementation in React.
+
